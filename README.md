@@ -2,6 +2,10 @@
 
 ASCII Keypress Visualizer
 
+
+https://github.com/user-attachments/assets/fbe8c2de-3b9a-449d-b3d8-fa0556c34f96
+
+
 ## DESCRIPTION
      ShowTouch is a CLI utility that displays keypresses in real-time
      using ASCII art. It provides a visually striking representation
